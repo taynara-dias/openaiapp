@@ -1,4 +1,5 @@
 import streamlit as st
+t.image("https://geneticliteracyproject.org/wp-content/uploads/2015/04/robot-2.jpg", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
